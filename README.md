@@ -38,19 +38,23 @@ The data set is publicly available on [Kaggle](https://www.kaggle.com/arashnic/f
 
 ---
 
-## Google Data Analytics Professional Certificate Overview
+# Google Data Analytics Professional Certificate 
 
-The [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) equips individuals with essential skills to excel as data analysts. Developed by Google, this comprehensive program covers data cleaning, problem-solving, data visualization, and more.
+## Overview
 
+The [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)  is a comprehensive program designed by Google to equip individuals with essential skills to excel as data analysts. This self-paced online course provides a flexible learning environment, allowing individuals to learn at their own pace. Developed by industry experts, the program covers foundational concepts to advanced skills, ensuring top-notch quality.
 
+---
 
 ### Program Benefits
 
-- Created by industry experts for top-notch quality.
-- Self-paced learning with online courses.
-- Real-world projects for practical experience.
-- Global community engagement.
+- Created by Google's industry experts for top-notch quality.
+- Flexible, self-paced learning through online courses.
+- Real-world projects offer practical experience.
+- Connect with a global community of learners.
 - Acquisition of job-ready skills upon completion.
+
+---
 
 
 ### Program Structure
@@ -66,15 +70,21 @@ The program comprises 8 courses covering foundational concepts to advanced skill
 7. Data Analysis with R Programming
 8. Google Data Analytics Capstone: Complete a Case Study
 
-### Learning Materials & Timeframe
+---
 
-The course offers diverse learning materials, including videos, readings, interactive tools, and quizzes. While self-paced, completion within 6 months is recommended, with approximately 10 hours of study per week.
+### Learning Resources & Schedule
+
+The program offers a diverse range of learning materials, including video lectures with accompanying transcripts, written readings, engaging discussion prompts, interactive practice tools, and numerous quizzes designed to evaluate understanding.
+
+Each course is structured into weekly modules. Upon completion of each week's content, participants are required to undertake a Week Challenge. Furthermore, at the conclusion of each course, learners must successfully complete a Course Challenge to progress to the next stage or course.
+
+Although the program is self-paced, Google recommends a completion timeframe of 6 months, with an approximate commitment of 10 hours per week. However, individuals with prior experience in data analytics may find themselves completing the program in as little as one to two months. Conversely, beginners seeking to initiate a career in data analytics may require the full 6 months as suggested by the timeline.
 
 ---
 
 ### Skills Gain
 
-Upon completion, learners gain expertise in various areas including data cleansing, analysis, visualization, and programming languages like R.
+Upon completion, learners gain expertise in various areas including data cleansing, analysis, visualization, and programming languages like R. Additionally, skills in data ethics, SQL, Tableau, structured thinking, and data integrity are acquired.
 
 ---
 
