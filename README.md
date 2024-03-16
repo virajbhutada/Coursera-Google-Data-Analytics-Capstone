@@ -40,6 +40,8 @@ The data set is publicly available on [Kaggle](https://www.kaggle.com/arashnic/f
 
 # Google Data Analytics Professional Certificate 
 
+![Coursera 3VQ6BABEU5Q7_page-0001](https://github.com/virajbhutada/Google-Data-Analytics-Capstone/assets/143819712/49040066-3979-4487-8df0-455ad78ac6d1)
+
 ## Overview
 
 The [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)  is a comprehensive program designed by Google to equip individuals with essential skills to excel as data analysts. This self-paced online course provides a flexible learning environment, allowing individuals to learn at their own pace. Developed by industry experts, the program covers foundational concepts to advanced skills, ensuring top-notch quality.
